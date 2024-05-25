@@ -1,7 +1,7 @@
 {
-    "name": "ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ",
+    "name": "ʟᴏᴠᴇ x ᴍᴜꜱɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg",
+    "logo": "https://graph.org/file/5b01eac7d295f8be0b867.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀʟᴏɴᴇ ダ ᴍᴜsɪᴄ",
+        "value": "ʟᴏᴠᴇ x ᴍᴜꜱɪᴄ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "6079943111",
+        "value": "5292020082",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001603822916",
+        "value": "-1001896959975",
         "required": true
       }
     },
